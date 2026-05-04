@@ -1,0 +1,8 @@
+artifact_location: file:///c:\Users\hamad\OneDrive\Desktop\ML - P\mlruns/691273384694542987
+creation_time: 1777923688916
+experiment_id: '691273384694542987'
+last_update_time: 1777923688916
+lifecycle_stage: active
+name: Brain-Tumor-Segmentation
+trace_location: null
+workspace: default
