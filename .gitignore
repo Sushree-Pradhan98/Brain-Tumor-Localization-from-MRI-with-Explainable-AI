@@ -4,6 +4,9 @@ data/raw/masks/
 data/processed/
 
 mlruns/
+**/mlruns/
+mlflow.db
+**/mlflow.db
 reports/
 
 .venv/
